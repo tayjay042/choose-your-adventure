@@ -3,8 +3,10 @@
 
 You join Oliver in his “smoke break” only to find out he really wanted to go investigate the mansion over yonder.  
 
+> “Oh, hey Jackie, how's it going? I saw this really cool mansion and couldn’t resist it. Wanna join?” 
+
 What do you do? 
 
-- [Return to the build](./scene2A.md)
+- [Say no and go back to finish the build](./scene3E.md)
 
-- [Try to stop him ](./scene4A.md)
+- [Join Oliver in exploring the mansion](./scene4E.md)
