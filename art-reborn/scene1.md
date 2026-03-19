@@ -1,4 +1,4 @@
-# Scene 1: ArtCon 
+# Scene 1: ArtCon!
 
 You arrive at ArtCon, the world’s biggest art sculpture competition, and meet up with your friends, Oliver and Allie. 
 
