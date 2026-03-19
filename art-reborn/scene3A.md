@@ -1,16 +1,14 @@
 
-# 🏜️ Scene 3A: The Canyon Hermit
+# Scene 3A: Finishing the Giraffe 
 
-You sneak away under the twin suns and head into the rocky canyonlands. After hours of walking, a hooded figure steps from the shadows.
+You guys finish the giraffe just in time. The judges make their rounds and get ready to announce the winner.  
 
-> “You’ve come a long way, traveler… I am Old Ken.”
+> “And the winner is ...  This amazing tomato!! 
 
-He listens to your story, then shows you a hidden device — a glowing blade of energy once wielded by defenders of peace.
-
-> “This was your father's. The Dominion hunted our kind. But the spark lives on… in you.”
+Turns out the judges love their fruit, and you lost. Oliver throws a fit and walks off to the mansion far away. Allie sits there and cries blaming herself for the loss 
 
 What now?
 
-- ⚔️ [Train with Old Ken and learn the ways of the spark](./scene4A.md)
+-  [Follow to calm down Oliver](./scene4B.md)
 
-- 🏃 [This is too much — run back home before things get worse](./scene4B.md)
+-  [Console Allie](./scene4C.md)
