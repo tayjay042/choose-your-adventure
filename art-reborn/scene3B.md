@@ -5,5 +5,5 @@ As you finish up your build, you know for sure you're going to win, you cheated,
 
 What do you do?
 
-- [Accept your fate](./scene4d.md)
+- [Accept your fate](./scene4D.md)
 
